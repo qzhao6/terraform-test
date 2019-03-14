@@ -13,6 +13,7 @@ resource "aws_instance" "example" {
 ```
 
 ```
+terraform init
 terraform apply
 terraform destroy
 ```
