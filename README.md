@@ -12,5 +12,7 @@ resource "aws_instance" "example" {
 }
 ```
 
+```
 terraform apply
 terraform destroy
+```
