@@ -1,8 +1,8 @@
 ec2.tf
 ```
 provider "aws" {
-  access_key = "..."
-  secret_key = "..."
+  access_key = "ACCESS_KEY_HERE"
+  secret_key = "SECRET_KEY_HERE"
   region     = "us-east-1"
 }
 
